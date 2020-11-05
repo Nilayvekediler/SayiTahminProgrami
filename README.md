@@ -1,0 +1,2 @@
+# SayiTahminProgrami
+ Kullanıcıdan  0-100 arasında bir sayı tutmasını isteyecek. Bu sırada programın kendisi de rastgele bir sayıyı hafızaya alacak ve kullanıcı programın belirlediği sayıyı bilene kadar çalışacak. Program kullanıcıya aşağı ve yukarı şeklinde ipuçları vererek yönlendirmeler yapacak. Kullanıcı, programın belirlediği sayıyı bulduğu zaman Bildiniz mesajı yazılacak ve programın çalışması sona erecek.
